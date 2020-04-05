@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR">
     <title type="text">Ei</title>
     <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
-    <updated>2020-04-05T19:33:03-03:00</updated>
+    <updated>2020-04-05T19:39:22-03:00</updated>
     <id>https://estudante.dev/</id>
     <link rel="alternate" type="text/html" href="https://estudante.dev/" />
     <link rel="self" type="application/atom+xml" href="https://estudante.dev/atom.xml" />
@@ -16,31 +16,4 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
     <generator uri="https://gohugo.io/" version="0.57.2">Hugo</generator>
-        <entry>
-            <title type="text">Quer Namorar Comigo?</title>
-            <link rel="alternate" type="text/html" href="https://estudante.dev/posts/quer-namorar-comigo/" />
-            <id>https://estudante.dev/posts/quer-namorar-comigo/</id>
-            <updated>2020-04-05T19:11:10-03:00</updated>
-            <published>2020-04-05T19:06:26-03:00</published>
-            <author>
-                    <name>Leonardo Lavigne</name>
-                    <uri>https://io-oi.me/</uri>
-                    <email>lclavigne@gmail.com</email>
-                    </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html"><![CDATA[]]></summary>
-            
-                <content type="html"><![CDATA[]]></content>
-            
-            
-            
-            
-            
-                
-                    
-                
-                    
-                
-            
-        </entry>
-    
 </feed>
