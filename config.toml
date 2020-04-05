@@ -2,7 +2,7 @@
 # Site Settings
 
 baseURL = "https://estudante.dev/"
-title = "Ei"
+title = "Leonardo Lavigne | Blog pessoal"
 languageCode = "pt-BR"
 hasCJKLanguage = false
 # Copyright information (Markdown supported)
